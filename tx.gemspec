@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "tx"
-  s.version = "0.0.5"
+  s.version = "0.0.6"
   s.authors = ["Hiroshi Ichikawa"]
   s.date = "2010-09-19"
   s.description = "Ruby 1.8/1.9 binding of Tx, a library for a compact trie data structure"
